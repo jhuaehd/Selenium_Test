@@ -40,6 +40,7 @@
 # while word_list:
 #     print(word_list.pop())
 
+
 # ============ String number with spaces and no spaces ============
 # a = input()
 # i = 0 
