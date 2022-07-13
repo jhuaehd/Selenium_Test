@@ -39,3 +39,16 @@
 
 # while word_list:
 #     print(word_list.pop())
+
+# ============ String number with spaces and no spaces ============
+# a = input()
+# i = 0 
+# while i < len(a):
+#     space = a.count(" ")
+#     if a == " ":
+#         i += 1
+#         continue
+#     i += 1
+# print("char with space:",i)
+# print("Space:",space)
+# print("Char number:",i-space)
