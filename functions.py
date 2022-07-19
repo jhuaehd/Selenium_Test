@@ -79,3 +79,19 @@
 # myFun(lst)
 # print(lst)
 
+# arr = [1, 2, 3, 4, 5, 6, 7]
+
+# sum = 0
+# for num in arr:
+#     sum += num
+# print(sum)
+
+# number = 5105
+
+# if number % 3 == 0:
+#     print("Divisible by 3")
+# elif number % 5 == 0:
+#     print("Divisible by 5")
+# else:
+#     print(number)
+
