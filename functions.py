@@ -97,9 +97,13 @@
 
 # ========= MULTIPLICATION TABLE ==============
 
+def multiplicationTable(column, row):
+    for r in range(1, row + 1):
+        print("\n", r, end="\t")
+        for c in range(2, column + 1):
+            print(c*r, end="\t")
+
+
 column = int(input("Column: "))
 row = int(input("Row: "))
-for r in range(1, row + 1):
-    print("\n", r, end="\t")
-    for c in range(2, column + 1):
-        print(c*r, end="\t")
+multiplicationTable(column, row)
